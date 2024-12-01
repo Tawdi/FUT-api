@@ -9,14 +9,16 @@
 <h1 align="center">FUT Team Builder : FutCoach </h1>
 
 
+## Lien vers le Repository
+Le code source est disponible sur GitHub :
 
-<!-- Status -->
+- **GitHub Repository** : [Lien vers le repository]([https://github.com/votre-utilisateur/fut-team-builder](https://github.com/Youcode-Classe-E-2024-2025/Ahmed_Taoudi-fut))
 
-<!-- <h4 align="center"> 
-	🚧  Ahmed_Taoudi Fut 🚀 Under construction...  🚧
-</h4> 
+## Lien vers le Site Web Hébergé
+Vous pouvez accéder à l'application en ligne via le lien suivant :
 
-<hr> -->
+- **Site Web Hébergé** : [Lien vers le site]([https://votre-site-heberge.com](https://youcode-classe-e-2024-2025.github.io/Ahmed_Taoudi-fut/))
+ 
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
@@ -81,16 +83,6 @@ $ cd ahmed_taoudi-fut
 L'application **FUT Team Builder** permet aux utilisateurs de créer et gérer leur équipe Ultimate Team (FUT) en respectant des formations tactiques comme le 4-3-3 ou le 4-4-2. Les utilisateurs peuvent ajouter, positionner et modifier les joueurs tout en tenant compte des règles de formation et de chimie de l'équipe. L'application offre également une gestion dynamique des joueurs via des formulaires, un calcul de la chimie, et la possibilité de sauvegarder les configurations dans le navigateur à l'aide de `localStorage`.
 
 
-## Lien vers le Repository
-Le code source est disponible sur GitHub :
 
-- **GitHub Repository** : [Lien vers le repository](https://github.com/votre-utilisateur/fut-team-builder)
-
-## Lien vers le Site Web Hébergé
-Vous pouvez accéder à l'application en ligne via le lien suivant :
-
-- **Site Web Hébergé** : [Lien vers le site](https://votre-site-heberge.com)
-
-xa0;
 
 <a href="#top">Back to top</a>
