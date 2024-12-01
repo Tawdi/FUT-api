@@ -12,12 +12,12 @@
 ## Lien vers le Repository
 Le code source est disponible sur GitHub :
 
-- **GitHub Repository** : [Lien vers le repository]([https://github.com/votre-utilisateur/fut-team-builder](https://github.com/Youcode-Classe-E-2024-2025/Ahmed_Taoudi-fut))
+- **GitHub Repository** : [Lien vers le repository](https://github.com/Youcode-Classe-E-2024-2025/Ahmed_Taoudi-fut)
 
 ## Lien vers le Site Web Hébergé
 Vous pouvez accéder à l'application en ligne via le lien suivant :
 
-- **Site Web Hébergé** : [Lien vers le site]([https://votre-site-heberge.com](https://youcode-classe-e-2024-2025.github.io/Ahmed_Taoudi-fut/))
+- **Site Web Hébergé** : [Lien vers le site](https://youcode-classe-e-2024-2025.github.io/Ahmed_Taoudi-fut/)
  
 
 <p align="center">
