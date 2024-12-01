@@ -6,23 +6,9 @@
   <!-- <a href="https://ahmed_taoudifut.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">Ahmed_Taoudi Fut</h1>
+<h1 align="center">FUT Team Builder : FutCoach </h1>
 
-<p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/tawdi/ahmed_taoudi-fut?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/tawdi/ahmed_taoudi-fut?color=56BEB8">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/tawdi/ahmed_taoudi-fut?color=56BEB8">
-
-  <img alt="License" src="https://img.shields.io/github/license/tawdi/ahmed_taoudi-fut?color=56BEB8">
-
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/tawdi/ahmed_taoudi-fut?color=56BEB8" /> -->
-
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/tawdi/ahmed_taoudi-fut?color=56BEB8" /> -->
-
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/tawdi/ahmed_taoudi-fut?color=56BEB8" /> -->
-</p>
 
 <!-- Status -->
 
@@ -46,44 +32,45 @@
 
 ## :dart: About ##
 
-Describe your project
+**FutCoach** est une application qui permet aux utilisateurs de créer et gérer leur équipe Ultimate Team (FUT) en respectant des formations tactiques comme le 4-3-3 ou le 4-4-2. Les utilisateurs peuvent ajouter, positionner et modifier des joueurs tout en prenant en compte les règles de formation et la chimie de l’équipe. L’application offre également une gestion dynamique des joueurs via des formulaires, un calcul de la chimie, et permet de sauvegarder les configurations dans `localStorage`.
 
-## :sparkles: Features ##
+## :sparkles: Fonctionnalités ##
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+:heavy_check_mark: **Ajout dynamique de joueurs** : Ajouter des joueurs via un formulaire avec des champs pour le nom, la position, les statistiques, etc. Les joueurs sont ensuite positionnés selon la formation choisie (ex. 4-3-3, 4-4-2).\
+:heavy_check_mark: **Positionnement des joueurs selon la formation tactique** : Les joueurs sont automatiquement positionnés selon des formations prédéfinies (4-3-3 ou 4-4-2).\
+:heavy_check_mark: **Calcul de la chimie de l’équipe** : Le score de chimie est calculé en fonction des relations entre les joueurs (même club, même championnat, même nationalité).\
+:heavy_check_mark: **Gestion des cartes de joueurs** : Ajouter, modifier et supprimer des joueurs tout en respectant les règles de formation (maximum de 11 joueurs pour la formation principale).\
+:heavy_check_mark: **Formulaire dynamique pour la gestion des joueurs** : Les joueurs peuvent être ajoutés ou supprimés dynamiquement, et leurs positions sont ajustées en fonction de la formation choisie.\
+:heavy_check_mark: **Support du LocalStorage** : Sauvegarder les configurations d’équipe et de formation localement avec `localStorage` pour les récupérer lors de la réouverture de l’application.\
+:heavy_check_mark: **Fonctionnalité de Drag & Drop** : Réorganiser les joueurs dans la formation en utilisant le glisser-déposer.\
+:heavy_check_mark: **Design responsive** : L’application est entièrement responsive, garantissant une expérience optimale sur desktop, tablette et mobile.
 
 ## :rocket: Technologies ##
 
 The following tools were used in this project:
 
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [JavaScript (Vanilla)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [localStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
 
-## :white_check_mark: Requirements ##
+## :white_check_mark: Prérequis ##
 
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
+Avant de commencer :checkered_flag:, assurez-vous d'avoir un navigateur moderne (comme Chrome, Firefox, Edge) installé.
 
 ## :checkered_flag: Starting ##
 
 ```bash
-# Clone this project
-$ git clone https://github.com/tawdi/ahmed_taoudi-fut
+```bash
+# Clonez ce projet
+$ git clone https://github.com/Youcode-Classe-E-2024-2025/Ahmed_Taoudi-fut.git
 
-# Access
+# Accédez au dossier du projet
 $ cd ahmed_taoudi-fut
 
-# Install dependencies
-$ yarn
+# Ouvrez index.html dans votre navigateur pour voir l'application en action
 
-# Run the project
-$ yarn start
 
-# The server will initialize in the <http://localhost:3000>
 ```
 
 ## :memo: License ##
@@ -91,7 +78,7 @@ $ yarn start
 
 #### f
 
-# FUT Team Builder
+# FUT Team Builder : FutCoach
 
 ## Contexte du Projet
 L'application **FUT Team Builder** permet aux utilisateurs de créer et gérer leur équipe Ultimate Team (FUT) en respectant des formations tactiques comme le 4-3-3 ou le 4-4-2. Les utilisateurs peuvent ajouter, positionner et modifier les joueurs tout en tenant compte des règles de formation et de chimie de l'équipe. L'application offre également une gestion dynamique des joueurs via des formulaires, un calcul de la chimie, et la possibilité de sauvegarder les configurations dans le navigateur à l'aide de `localStorage`.
@@ -118,9 +105,6 @@ L'application **FUT Team Builder** permet aux utilisateurs de créer et gérer l
 
 - **LocalStorage des Formations et Joueurs (Bonus)**  
   Les configurations de l'équipe et de la formation sont sauvegardées dans `localStorage`, permettant aux utilisateurs de récupérer leurs données lors de la réouverture de l'application.
-
-- **Drag & Drop pour le Changement des Joueurs (Bonus)**  
-  Une fonctionnalité de glisser-déposer permet de réorganiser les joueurs dans la formation.
 
 - **Changement de Formation Dynamique (Bonus)**  
   Lors du changement de formation, les positions des joueurs sont automatiquement réajustées.
