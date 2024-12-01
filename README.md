@@ -20,11 +20,10 @@
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
-  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
+  <a href="#sparkles-fonctionnalités">Features</a> &#xa0; | &#xa0;
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
-  <a href="#memo-license">License</a> &#xa0; | &#xa0;
   <a href="https://github.com/tawdi" target="_blank">Author</a>
 </p>
 
@@ -37,12 +36,17 @@
 ## :sparkles: Fonctionnalités ##
 
 :heavy_check_mark: **Ajout dynamique de joueurs** : Ajouter des joueurs via un formulaire avec des champs pour le nom, la position, les statistiques, etc. Les joueurs sont ensuite positionnés selon la formation choisie (ex. 4-3-3, 4-4-2).\
+
 :heavy_check_mark: **Positionnement des joueurs selon la formation tactique** : Les joueurs sont automatiquement positionnés selon des formations prédéfinies (4-3-3 ou 4-4-2).\
+
 :heavy_check_mark: **Calcul de la chimie de l’équipe** : Le score de chimie est calculé en fonction des relations entre les joueurs (même club, même championnat, même nationalité).\
+
 :heavy_check_mark: **Gestion des cartes de joueurs** : Ajouter, modifier et supprimer des joueurs tout en respectant les règles de formation (maximum de 11 joueurs pour la formation principale).\
+
 :heavy_check_mark: **Formulaire dynamique pour la gestion des joueurs** : Les joueurs peuvent être ajoutés ou supprimés dynamiquement, et leurs positions sont ajustées en fonction de la formation choisie.\
+
 :heavy_check_mark: **Support du LocalStorage** : Sauvegarder les configurations d’équipe et de formation localement avec `localStorage` pour les récupérer lors de la réouverture de l’application.\
-:heavy_check_mark: **Fonctionnalité de Drag & Drop** : Réorganiser les joueurs dans la formation en utilisant le glisser-déposer.\
+
 :heavy_check_mark: **Design responsive** : L’application est entièrement responsive, garantissant une expérience optimale sur desktop, tablette et mobile.
 
 ## :rocket: Technologies ##
@@ -54,7 +58,7 @@ The following tools were used in this project:
 - [JavaScript (Vanilla)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [localStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
 
-## :white_check_mark: Prérequis ##
+## :white_check_mark: Requirements ##
 
 Avant de commencer :checkered_flag:, assurez-vous d'avoir un navigateur moderne (comme Chrome, Firefox, Edge) installé.
 
