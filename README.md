@@ -79,12 +79,5 @@ $ cd ahmed_taoudi-fut
 
 ```
 
-# FUT Team Builder : FutCoach
-
-## Contexte du Projet
-L'application **FUT Team Builder** permet aux utilisateurs de créer et gérer leur équipe Ultimate Team (FUT) en respectant des formations tactiques comme le 4-3-3 ou le 4-4-2. Les utilisateurs peuvent ajouter, positionner et modifier les joueurs tout en tenant compte des règles de formation et de chimie de l'équipe. L'application offre également une gestion dynamique des joueurs via des formulaires, un calcul de la chimie, et la possibilité de sauvegarder les configurations dans le navigateur à l'aide de `localStorage`.
-
-
-
 
 <a href="#top">Back to top</a>
