@@ -35,7 +35,7 @@ Vous pouvez accéder à l'application en ligne via le lien suivant :
 
 ## :dart: About ##
 
-**FutCoach** est une application qui permet aux utilisateurs de créer et gérer leur équipe Ultimate Team (FUT) en respectant des formations tactiques comme le 4-3-3 ou le 4-4-2. Les utilisateurs peuvent ajouter, positionner et modifier des joueurs tout en prenant en compte les règles de formation et la chimie de l’équipe. L’application offre également une gestion dynamique des joueurs via des formulaires, un calcul de la chimie, et permet de sauvegarder les configurations dans `localStorage`.
+**FutCoach** est une application qui permet aux utilisateurs de créer et gérer leur équipe Ultimate Team (FUT) en respectant des formations tactiques comme le 4-3-3 ou le 4-4-2. Les utilisateurs peuvent ajouter, positionner et modifier des joueurs tout en prenant en compte les règles de formation  . L’application offre également une gestion dynamique des joueurs via des formulaires, et permet de sauvegarder les configurations dans `localStorage`.
 
 ## :sparkles: Fonctionnalités ##
 
